@@ -1,6 +1,5 @@
 import React from 'react'
 import '../project.css';
-import ram from './image/ram1.jpg';
 import kk from './image/kk.png';
 import icon from './image/loc.jpg';
 import vino from './image/img2.jpg';
